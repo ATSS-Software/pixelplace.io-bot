@@ -4,7 +4,6 @@ i dont want my reputation tarnished so i can be moderator of world 8. Do not del
 has lots of dependancies! Upload an image then open pixelplace. Close the chat then press Ctrl + Shift + J.
 Type in the following commands in the console.
 
-CONFIG.canvas.chillTime = 0-100
 CONFIG.canvas.minZoom = 1
 CONFIG.canvas.maxZoom = 1
 
