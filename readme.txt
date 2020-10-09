@@ -7,9 +7,9 @@ Type in the following commands in the console.
 CONFIG.canvas.minZoom = 1
 CONFIG.canvas.maxZoom = 1
 
-When you have typed the commands open the press Control + G. 
+When you have typed the commands open the press Ctrl + G. 
 You will see a preview of your picture hovering by your cursor. Match up the picture with where you want it to go. Then
-click and Voila! If you ever want it to stop press Control + G. To unpause press Control + G again. Goodbye.
+click and Voila! If you ever want it to stop press Ctrl + G. To unpause press Ctrl + G again. Goodbye.
 
 Sincerly,
 Taksony of the Sassanian guild
